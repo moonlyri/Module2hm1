@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d7lU2BsN7wmtCxfNj31vShPwxfid1elhkBD+1m8ONFWe479mnsaxhwC1yCGGdi8Bok5Fua37x89vCR5RnrITNg==",
+  "success": true,
+  "projectFilePath": "/Users/moonlyri/Documents/GitHub/Module2hm1/Module2HM1.csproj",
+  "expectedPackageFiles": [
+    "/Users/moonlyri/.nuget/packages/nlog/5.0.4/nlog.5.0.4.nupkg.sha512",
+    "/Users/moonlyri/.nuget/packages/nlog.config/4.7.15/nlog.config.4.7.15.nupkg.sha512",
+    "/Users/moonlyri/.nuget/packages/nlog.schema/4.7.15/nlog.schema.4.7.15.nupkg.sha512"
+  ],
+  "logs": []
+}
